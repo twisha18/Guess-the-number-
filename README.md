@@ -1,0 +1,2 @@
+# Guess-the-number-
+I have made a small project using basic programing of C language. A random number will select a random number which you will have to guess. It will even guide you if you right on the right track. Suppose, if you have guessed higher than your original number it will tell the user to opt for a lower number and the same goes if you have entered a number higher than the original number. The game is fun to play and you can select any number between 1 to 100.
